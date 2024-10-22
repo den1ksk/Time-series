@@ -4,15 +4,12 @@
 
 **Структура репозитория:**
 
-.
-├── train.parquet # Обучающая выборка
-├── test.parquet # Тестовая выборка
-├── xgb_model.pkl # Сохраненная обученная модель XGBoost
-├── predict.ipynb # Jupyter Notebook с кодом предсказания
-├── modeltrain.ipynb # Jupyter Notebook с кодом обучения модели и генерации признаков
-├── submission.csv # Файл с предсказаниями на тестовой выборке
-├── requirements.txt # Список необходимых библиотек
-└── README.md # Этот файл
+├── train.parquet        # Training dataset
+├── test.parquet         # Test dataset
+├── modeltrain.py        # Model training script
+├── testmodel.py         # Model inference script
+├── xgb_model.pkl        # Trained model
+└── submission.csv       # Prediction results
 
 **Описание файлов:**
 
