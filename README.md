@@ -4,6 +4,7 @@
 
 **Структура репозитория:**
 
+.
 ├── train.parquet        # Training dataset
 ├── test.parquet         # Test dataset
 ├── modeltrain.py        # Model training script
