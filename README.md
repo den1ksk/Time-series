@@ -47,12 +47,12 @@ pip install -r requirements.txt
 
 2. Клонируйте репозиторий:
 ```bash
-git clone <ссылка на ваш репозиторий>
+git clone <(https://github.com/den1ksk/Time-series-vk)>
 ```
 
 3. Перейдите в директорию репозитория:
 ```bash
-cd <название репозитория>
+cd <Time-series-vk>
 ```
 
 4. Для получения предсказаний на тестовой выборке, запустите `predict.ipynb`. Скрипт создаст файл `submission.csv` с предсказаниями.
