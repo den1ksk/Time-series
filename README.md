@@ -51,7 +51,7 @@ git clone <(https://github.com/den1ksk/Time-series-vk)>
 
 3. Перейдите в директорию репозитория:
 ```bash
-cd <Time-series-vk>
+cd <Time-series>
 ```
 
 4. Для получения предсказаний на тестовой выборке, запустите `predict.ipynb`. Скрипт создаст файл `submission.csv` с предсказаниями.
