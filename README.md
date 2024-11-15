@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 2. Клонируйте репозиторий:
 ```bash
-git clone <(https://github.com/den1ksk/Time-series.git)>
+git clone <(https://github.com/den1ksk/Time-series)>
 ```
 
 3. Перейдите в директорию репозитория:
